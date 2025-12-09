@@ -965,7 +965,7 @@ function showInfo() {
                 <li>Bij een score van 10/10 start de Dragon game automatisch! </li>
             </ol><br> 
             <strong>Dragon Game:<br></strong> Spring met spatie of muisklik.<br> Spring op de hoge gele trampolines voor extra boost!<br>
-            Na 3 game-overs komt er een volledige reset.<br><br>
+            Na 3 game-overs komt er een volledige reset.<br> Beste highscore = 31<br>
             <strong>Reset:<br></strong> Klik "Reset" voor nieuwe sommen.
         </p>
         <button id="closeBtn" style="
